@@ -14,3 +14,4 @@ variable "GKE_NUM_NODES" {
   default     = 2
   description = "GKE nodes number"
 }
+
