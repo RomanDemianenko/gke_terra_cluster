@@ -1,6 +1,9 @@
 .terraform
-.terraform/*
+.terraform/ *
 .terraform.lock.hcl
 keys_google.json
 terraform.tfstate
 terraform.tfstate.backup
+.kube
+.terraform.*
+.terraform/modules/*
